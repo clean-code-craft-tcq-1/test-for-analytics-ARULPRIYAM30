@@ -2,11 +2,9 @@
 
 Design tests for Analytics functionality on a Battery Monitoring System.
 
-Fill the parts marked '_enter' in the **Tasks** section below.
-
 ## Analysis-functionality to be tested
 
-This section lists the Analysis for which _tests_ must be written.
+This section lists the Analysis for which tests must be written.
 
 Battery Telemetrics are collected and stored on a server.
 Data for a month is stored in a [csv file](https://en.wikipedia.org/wiki/Comma-separated_values).
